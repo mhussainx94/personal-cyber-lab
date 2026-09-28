@@ -14,7 +14,7 @@ Windows 10 — edition/build: `[TO BE DOCUMENTED]`
 
 ## Network Mode
 
-`[TO BE DOCUMENTED]`
+  NAT
 
 ## IP Address
 
